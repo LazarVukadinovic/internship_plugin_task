@@ -49,3 +49,12 @@ When invoked, the action prompts the user for a package name and creates the spe
 3. The package structure will be created in the selected directory.
 4. Enter a package name like `com.example.myplugin`.
 5. The package `com.example.myplugin` is created within the selected directory.
+
+## **Technologies Used**:
+
+- Java to Kotlin
+- built-in IDE plugin generator
+
+## Author
+
+- **Lazar Vukadinovic** - [GitHub Profile](https://github.com/LazarVukadinovic)
